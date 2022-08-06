@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I’m Jack.
+
+- 🔭 I’m currently working on building tools to transform software development at ANZ, Melbourne Australia. Alumni of University of Melbourne.
+- 💬 Ask me about craftsmanship, design, cooking, late-night design philosophy and cloudy things. Looking to find the perfect cup of coffee☕.
+- 🌱 On a journey to learn, experience the universe and pursue deep work to create a better version of the world.
+
+
+
+
+
 <!--
 **cuminandpaprika/cuminandpaprika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
